@@ -52,7 +52,7 @@ This class will happen on a Discord server with configurable [AI bot](#classbot)
 1. Peer Reviews
 
 ### Presumed timeline
-#### Exploration
+#### Phase 1 - Exploration
 
 Figuring out the rough topic area you want to explore for you capstone
 
@@ -61,7 +61,7 @@ Figuring out the rough topic area you want to explore for you capstone
 - [x] Week 3 - January 22nd
 - [x] Week 4 - January 29th
   
-#### Development
+#### Phase 2 - Development
 
 Developing your knowledge base and developing your project plan
 
@@ -70,7 +70,7 @@ Developing your knowledge base and developing your project plan
 - [ ] Week 7 - February 19th
 - [ ] Week 8 - February 26th
 
-#### Execution  
+#### Phase 3 - Execution  
 
 Generating the actual capstone project document
 
@@ -79,7 +79,7 @@ Generating the actual capstone project document
 - [ ] Week 11 - March 19th
 - Week 12 - March 26th
 
-#### Integration  
+#### Phase 4 - Integration  
 
 Group work and presentations! 
 
